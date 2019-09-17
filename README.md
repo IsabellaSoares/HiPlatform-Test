@@ -1,3 +1,11 @@
+## HiPlatform - Prova Front-end
+
+**Candidata:** Isabella Soares de Lima
+
+Projeto desenvolvido para o teste da vaga Dev Front-end na HiPlatform.
+
+_________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
